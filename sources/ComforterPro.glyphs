@@ -2,7 +2,7 @@
 .appVersion = "1352";
 DisplayStrings = (
 "Resolution/space 217/space A/space (III)/space vom/space 10.12.1948Da/space die/space Anerkennung/space angeborenen/space Würde/space gleichen/space unveräußerlichen/space Mitglieder/space Gemeinschaft/space Freiheit,/space Nichtanerkennung/space Verachtung/space zu/space Barbarei/space Gewissen/space Empörung/space Streben/space Herrschaft/space Tyrannei/space Unterdrückung/space Charta/space Person/space Lebensbedingungen/space Zusammenarbeit/space jeder/space Organe/space begegnen.Jeder/space Überzeugung,/space werden;/space Kulthandlungen/space Ämtern/space Existenz/space resolución/space que/space intrínseca/space más/space régimen/space común/space enseñanza/space izzet-hörmitini/space aylan'ghanliqi,/space ijtima/quoteright iy/space qilidu:hemme/space Yora/space ¿Un/space huatiromanmun?Ascantanrifin/space senenhas\"honra/space IQUl,/space JONÍ/space Él/space barbàrie/space consciència/space creença,Considerant/space rebel·lió/space autònom,/space països/space TUÁKAR/space AÚJMATISAMUJúna/space pu]ustinrin,/space thë/space wã/space maõpë,Enaha/space TOTIHITAWË/space Ã/space taomi.Considerînd/space sa.În/space Asambleyas/idotless n/idotless n/space merkeziBas/idotless lêr/space kay/idotless ll/idotless/idotless nnan.Aylä/emdash/space tegnì/space dùthchannan,Do/space Xiskuamana,/space ye.[Missing]Ned/space p/oe ga,/space lume,Considerând/space/endash/space WALINKAÑAPATAKI/space E'~mbi/space ber/scaron ,/space d/zcaron enengere/space/quotedblleft raica/space qali./quotedblright Ni/space ai.3-'E/space 360/space rukutina¿;¡ju/space ADI/quoteleft Bakan/space &/space Övertügen,/space nateûre/space égåls,/space s-ôtes/space vre°ymint/space secretario.general@interlingua.comUling/space GWIRIOÙ/space nai>>ctaxa/space heste.Ç/idotless/space prandipen.Âaj/space d´fhiacha/space Òmma/space naçon.Ês/space tjuta!Tjinguru/space Ó/space KU`OTENESEKILONDEKESU/space Åtta/space éyaltai{ab/space assaturusengnge.Það/space þetta/space réttlætis/space lýst,/space 5IGELE/space ese_ejja/space UNIVERSÈLE/space DREÛTS/space ASSAMBLEÝAADAM/space Ïa/space SHROMA/Zcaron DENIEtúto/space tia;/backslash ui./space le^/space bekjentgjøre/space VERDENSERKLÆRING/space i%anique/space raryijnty£ryanityaniy/space rirva½arvurva/space «/space »/space/lslash a/space promesi./Lslash a/space t/dagger/space =/space SKUP/Scaron TINI/space usirhelèli.À/space bjóðarAÐALFUNDURINHesa/space teirra.Øll/space wón/ydieresis uú/space enupa,/ellipsis )/space pruckamakir+t/space/florin e",
-abcdefghijklmnopqrstuvwxyz,
+abcdefghijklmnopqrstuvwxyzh,
 ABCDEFGHIJKLMNOPQRSTUVWXYZ,
 "nn/Placeholder no/Placeholder oo/space \012a/Placeholder a/space b/Placeholder b/space c/Placeholder c/space d/Placeholder d/space e/Placeholder e/space f/Placeholder f/space g/Placeholder g/space h/Placeholder h/space i/Placeholder i/space jjj/space k/Placeholder k/space l/Placeholder l/space m/Placeholder m/space n/Placeholder n/space o/Placeholder o/space p/Placeholder p/space q/Placeholder q/space r/Placeholder r/space s/Placeholder s/space t/Placeholder t/space u/Placeholder u/space v/Placeholder v/space w/Placeholder w/space x/Placeholder x/space y/Placeholder y/space z/Placeholder z\012AdBCDEFGHIJKLMN/space de\012OPQRSTToUVWXYZ\012xopqvtrstuvwxeyzAnnlle\012ovobcnjkinefongolyhijnknlmnopqrnsno/space fTridD/space Twombli/space cYd/space Tgmaiwan/space WcWd/space Twardock/space FsbxAWjjimA/space Wircnder/space/Abrevehookabove/space UVÁVb/cacute peavnaYYdtnunonvonovowUIonoxonovonTVImaonz/space nn/Placeholder no/Placeholder oonn/space Yoënçolnlomco/space on/space bon/space pmi/space mama/space me/space mima\012email@mywebsite.com"
 );
@@ -76,69 +76,12 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature calt;\012feature clig;\012feature salt;\012feature ss01;\012feature ss02;\012feature ss03;\012feature ss04;\012feature ss05;\012feature ss06;\012feature ss07;\012feature ss08;\012feature locl;\012feature sups;\012feature frac;\012feature ordn;\012";
+code = "feature locl;\012feature sups;\012feature frac;\012feature ordn;\012feature fina;\012feature salt;\012feature ss01;\012feature ss02;\012feature ss03;\012feature ss04;\012feature ss05;\012feature ss06;\012feature ss07;\012feature calt;\012";
 name = aalt;
 },
 {
-code = "script latn;\012sub quotedbl by quotedblright;\012sub quotesingle by quoteright;\012sub period period period by ellipsis;\012";
-name = calt;
-},
-{
-code = "script latn;\012sub a m by a_m;\012sub i' lookup lookup_0 m ;\012sub i' lookup lookup_0 n ;\012sub i' lookup lookup_0 u ;\012sub i s by i_s;\012sub o o r by o_o_r;\012sub s u by s_u;\012sub t i t by t_i_t;\012sub t t l by t_t_l;\012sub t h by t_h;\012sub t i by t_i;\012sub t l by t_l;\012sub o i' lookup lookup_0 ;\012sub o o by o_o;\012sub o' lookup lookup_0 n ;\012sub h o l by h_o_l;\012sub h o by h_o;\012sub o p by o_p;\012sub o t by o_t;\012sub j t' lookup lookup_0 ;\012sub t' lookup lookup_0 i n ;\012sub t' lookup lookup_0 i m ;\012sub t' lookup lookup_0 i.ss03 n ;\012sub t' lookup lookup_0 i.ss03 m ;\012sub I t' lookup lookup_0 ;\012sub g' lookup lookup_0 g ;\012sub C o m f o r t e r by Comforter;\012sub f o x by f_o_x;\012sub f f by ff;\012sub f o by f_o;\012sub l t by l_t;\012sub o l by o_l;\012sub o x by o_x;\012sub t quotesingle' lookup lookup_0 ;\012sub t quotedbl' lookup lookup_0 ;\012";
-name = clig;
-},
-{
-code = "script latn;\012sub t_h by t_h.ss01;\012sub o_o by o_o.ss01;\012sub e e by e_e;\012sub l l by l_l;\012";
-name = dlig;
-},
-{
-code = "script latn;\012sub f f i by ffi;\012sub f f l by ffl;\012sub f f by ff;\012sub f i by fi;\012sub f l by fl;\012";
-name = liga;
-},
-{
-code = "script latn;\012sub exclam by exclam.ss01;\012sub ampersand by ampersand.ss01;\012sub at by at.ss01;\012sub A by A.ss01;\012sub B by B.ss01;\012sub C by C.ss01;\012sub D by D.ss01;\012sub E by E.ss01;\012sub F by F.ss01;\012sub G by G.ss01;\012sub H by H.ss01;\012sub I by I.ss01;\012sub J by J.ss01;\012sub K by K.ss01;\012sub L by L.ss01;\012sub M by M.ss01;\012sub N by N.ss01;\012sub O by O.ss01;\012sub P by P.ss01;\012sub Q by Q.ss01;\012sub R by R.ss01;\012sub S by S.ss01;\012sub T by T.ss01;\012sub U by U.ss01;\012sub V by V.ss01;\012sub W by W.ss01;\012sub X by X.ss01;\012sub Y by Y.ss01;\012sub Z by Z.ss01;\012sub a by a.ss01;\012sub b by b.ss01;\012sub c by c.ss01;\012sub d by d.ss01;\012sub e by e.ss01;\012sub f by f.ss01;\012sub g by g.ss01;\012sub h by h.ss01;\012sub i by i.ss01;\012sub j by j.ss01;\012sub k by k.ss01;\012sub l by l.ss01;\012sub m by m.ss01;\012sub n by n.ss01;\012sub o by o.ss01;\012sub p by p.ss01;\012sub q by q.ss01;\012sub r by r.ss01;\012sub s by s.ss01;\012sub t by t.ss01;\012sub u by u.ss01;\012sub v by v.ss01;\012sub w by w.ss01;\012sub x by x.ss01;\012sub y by y.ss01;\012sub z by z.ss01;\012sub o_o by o_o.ss01;\012";
-name = salt;
-},
-{
-code = "script latn;\012sub exclam by exclam.ss01;\012sub ampersand by ampersand.ss01;\012sub at by at.ss01;\012sub A by A.ss01;\012sub B by B.ss01;\012sub C by C.ss01;\012sub D by D.ss01;\012sub E by E.ss01;\012sub F by F.ss01;\012sub G by G.ss01;\012sub H by H.ss01;\012sub I by I.ss01;\012sub J by J.ss01;\012sub K by K.ss01;\012sub L by L.ss01;\012sub M by M.ss01;\012sub N by N.ss01;\012sub O by O.ss01;\012sub P by P.ss01;\012sub Q by Q.ss01;\012sub R by R.ss01;\012sub S by S.ss01;\012sub T by T.ss01;\012sub U by U.ss01;\012sub V by V.ss01;\012sub W by W.ss01;\012sub X by X.ss01;\012sub Y by Y.ss01;\012sub Z by Z.ss01;\012sub a by a.ss01;\012sub b by b.ss01;\012sub c by c.ss01;\012sub d by d.ss01;\012sub e by e.ss01;\012sub f by f.ss01;\012sub g by g.ss01;\012sub h by h.ss01;\012sub i by i.ss01;\012sub j by j.ss01;\012sub k by k.ss01;\012sub l by l.ss01;\012sub m by m.ss01;\012sub n by n.ss01;\012sub o by o.ss01;\012sub p by p.ss01;\012sub q by q.ss01;\012sub r by r.ss01;\012sub s by s.ss01;\012sub t by t.ss01;\012sub u by u.ss01;\012sub v by v.ss01;\012sub w by w.ss01;\012sub x by x.ss01;\012sub y by y.ss01;\012sub z by z.ss01;\012sub o_o by o_o.ss01;\012";
-name = ss01;
-},
-{
-code = "script latn;\012sub L by L.ss02;\012sub N by N.ss02;\012sub a by a.ss02;\012sub b by b.ss02;\012sub c by c.ss02;\012sub d by d.ss02;\012sub e by e.ss02;\012sub f by f.ss02;\012sub g by g.ss02;\012sub h by h.ss02;\012sub i by i.ss02;\012sub j by j.ss02;\012sub k by k.ss02;\012sub l by l.ss02;\012sub o by o.ss02;\012sub r by r.ss02;\012sub s by s.ss02;\012sub t by t.ss02;\012sub y by y.ss02;\012";
-name = ss02;
-},
-{
-code = "script latn;\012sub b by b.ss03;\012sub c by c.ss03;\012sub e by e.ss03;\012sub f by f.ss03;\012sub g by g.ss03;\012sub h by h.ss03;\012sub i by i.ss03;\012sub j by j.ss03;\012sub k by k.ss03;\012sub l by l.ss03;\012sub o by o.ss03;\012sub r by r.ss03;\012sub s by s.ss03;\012sub t by t.ss03;\012";
-name = ss03;
-},
-{
-code = "script latn;\012sub b by b.ss04;\012sub f by f.ss04;\012sub k by k.ss04;\012sub r by r.ss04;\012sub t by t.ss04;\012";
-name = ss04;
-},
-{
-code = "script latn;\012sub b by b.ss05;\012sub r by r.ss05;\012sub t by t.ss05;\012";
-name = ss05;
-},
-{
-code = "script latn;\012sub t by t.ss06;\012";
-name = ss06;
-},
-{
-code = "script latn;\012sub a by a.end;\012sub b by b.end;\012sub c by c.end;\012sub d by d.end;\012sub e by e.end;\012sub f by f.end;\012sub g by g.end;\012sub h by h.end;\012sub i by i.end;\012sub j by j.end;\012sub k by k.end;\012sub l by l.end;\012sub m by m.end;\012sub n by n.end;\012sub o by o.end;\012sub p by p.end;\012sub q by q.end;\012sub r by r.end;\012sub s by s.end;\012sub t by t.end;\012sub u by u.end;\012sub v by v.end;\012sub w by w.end;\012sub x by x.end;\012sub y by y.end;\012sub z by z.end;\012";
-name = ss07;
-},
-{
-code = "script latn;\012sub one by underline1;\012sub two by underline2;\012sub three by underline3;\012sub four by underline4;\012sub five by underline5;\012sub six by overline1;\012sub seven by overline.dbl;\012sub eight by loop.flourish;\012sub nine by loop.flouish.dbl;\012";
-name = ss08;
-},
-{
 automatic = 1;
-code = "lookup ccmp_Other_1 {\012	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];\012	@CombiningNonTopAccents = [brevebelowcomb cedillacomb dieresisbelowcomb dotbelowcomb macronbelowcomb ogonekcomb horncomb strokeshortcomb];\012	sub [i j]' @CombiningTopAccents by [idotless jdotless];\012	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];\012} ccmp_Other_1;\012\012lookup ccmp_latn_1 {\012	lookupflag 0;\012	sub brevecomb acutecomb by brevecomb_acutecomb;\012	sub brevecomb gravecomb by brevecomb_gravecomb;\012	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;\012	sub brevecomb tildecomb by brevecomb_tildecomb;\012	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;\012	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;\012	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;\012	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;\012} ccmp_latn_1;\012\012script latn;\012lookup ccmp_latn_1;\012";
-name = ccmp;
-},
-{
-automatic = 1;
-code = "lookup locl_latn_0 {\012	script latn;\012	language AZE;\012	sub i by idotaccent;\012	language CRT;\012	sub i by idotaccent;\012	language KAZ;\012	sub i by idotaccent;\012	language TAT;\012	sub i by idotaccent;\012	language TRK;\012	sub i by idotaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub Tcedilla by Tcommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub Tcedilla by Tcommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_1;\012\012lookup locl_latn_2 {\012	script latn;\012	language CAT;\012	sub l periodcentered' l by periodcentered.loclCAT;\012	sub L periodcentered' L by periodcentered.loclCAT;\012} locl_latn_2;\012";
+code = "lookup locl_latn_0 {\012	script latn;\012	language AZE;\012	language CRT;\012	language KAZ;\012	language TAT;\012	language TRK;\012	sub i by idotaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language ROM;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub Tcedilla by Tcommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_1;\012\012lookup locl_latn_2 {\012	script latn;\012	language CAT;\012	sub l periodcentered' l by periodcentered.loclCAT;\012	sub L periodcentered' L by periodcentered.loclCAT;\012} locl_latn_2;\012";
 name = locl;
 },
 {
@@ -155,6 +98,69 @@ name = frac;
 automatic = 1;
 code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;\012sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;\012sub N o period by numero;\012";
 name = ordn;
+},
+{
+automatic = 1;
+code = "sub a by a.fina;\012sub b by b.fina;\012sub c by c.fina;\012sub d by d.fina;\012sub e by e.fina;\012sub f by f.fina;\012sub g by g.fina;\012sub h by h.fina;\012sub i by i.fina;\012sub j by j.fina;\012sub k by k.fina;\012sub l by l.fina;\012sub m by m.fina;\012sub n by n.fina;\012sub o by o.fina;\012sub p by p.fina;\012sub q by q.fina;\012sub r by r.fina;\012sub s by s.fina;\012sub h.ss01 by h.ss01.fina;\012sub t by t.fina;\012sub u by u.fina;\012sub v by v.fina;\012sub w by w.fina;\012sub x by x.fina;\012sub y by y.fina;\012sub z by z.fina;\012";
+name = fina;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;\012sub f o x by f_o_x;\012sub h o l by h_o_l;\012sub o o r by o_o_r;\012sub t i t by t_i_t;\012sub t t l by t_t_l;\012sub a m by a_m;\012sub e e by e_e;\012sub e r by e_r.fina;\012sub f o by f_o;\012sub h o by h_o;\012sub i s by i_s;\012sub l l by l_l;\012sub l t by l_t;\012sub o l by o_l;\012sub o m by o_m;\012sub o o by o_o;\012sub o p by o_p;\012sub o r by o_r;\012sub o t by o_t;\012sub o x by o_x;\012sub r i by r_i;\012sub s i by s_i;\012sub s u by s_u;\012sub t h by t_h;\012sub t i by t_i;\012sub t l by t_l;\012sub t t by t_t;\012";
+name = dlig;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;\012sub f f i by f_f_i;\012sub f f l by f_f_l;\012sub f f by f_f;\012sub f i by fi;\012sub f l by fl;\012";
+name = liga;
+},
+{
+automatic = 1;
+code = "sub A by A.ss01;\012sub B by B.ss01;\012sub C by C.ss01;\012sub D by D.ss01;\012sub E by E.ss01;\012sub F by F.ss01;\012sub G by G.ss01;\012sub H by H.ss01;\012sub I by I.ss01;\012sub J by J.ss01;\012sub K by K.ss01;\012sub L by L.ss01;\012sub M by M.ss01;\012sub N by N.ss01;\012sub O by O.ss01;\012sub P by P.ss01;\012sub Q by Q.ss01;\012sub R by R.ss01;\012sub S by S.ss01;\012sub T by T.ss01;\012sub U by U.ss01;\012sub V by V.ss01;\012sub W by W.ss01;\012sub X by X.ss01;\012sub Y by Y.ss01;\012sub Z by Z.ss01;\012sub a by a.ss01;\012sub b by b.ss01;\012sub c by c.ss01;\012sub d by d.ss01;\012sub e by e.ss01;\012sub f by f.ss01;\012sub g by g.ss01;\012sub h by h.ss01;\012sub i by i.ss01;\012sub j by j.ss01;\012sub k by k.ss01;\012sub l by l.ss01;\012sub m by m.ss01;\012sub n by n.ss01;\012sub o by o.ss01;\012sub p by p.ss01;\012sub q by q.ss01;\012sub r by r.ss01;\012sub s by s.ss01;\012sub t by t.ss01;\012sub u by u.ss01;\012sub v by v.ss01;\012sub w by w.ss01;\012sub x by x.ss01;\012sub y by y.ss01;\012sub z by z.ss01;\012sub o_o by o_o.ss01;\012sub t_h by t_h.ss01;\012sub exclam by exclam.ss01;\012sub yen by yen.ss01;\012sub at by at.ss01;\012sub ampersand by ampersand.ss01;\012";
+name = salt;
+},
+{
+automatic = 1;
+code = "sub A by A.ss01;\012sub B by B.ss01;\012sub C by C.ss01;\012sub D by D.ss01;\012sub E by E.ss01;\012sub F by F.ss01;\012sub G by G.ss01;\012sub H by H.ss01;\012sub I by I.ss01;\012sub J by J.ss01;\012sub K by K.ss01;\012sub L by L.ss01;\012sub M by M.ss01;\012sub N by N.ss01;\012sub O by O.ss01;\012sub P by P.ss01;\012sub Q by Q.ss01;\012sub R by R.ss01;\012sub S by S.ss01;\012sub T by T.ss01;\012sub U by U.ss01;\012sub V by V.ss01;\012sub W by W.ss01;\012sub X by X.ss01;\012sub Y by Y.ss01;\012sub Z by Z.ss01;\012sub a by a.ss01;\012sub b by b.ss01;\012sub c by c.ss01;\012sub d by d.ss01;\012sub e by e.ss01;\012sub f by f.ss01;\012sub g by g.ss01;\012sub h by h.ss01;\012sub i by i.ss01;\012sub j by j.ss01;\012sub k by k.ss01;\012sub l by l.ss01;\012sub m by m.ss01;\012sub n by n.ss01;\012sub o by o.ss01;\012sub p by p.ss01;\012sub q by q.ss01;\012sub r by r.ss01;\012sub s by s.ss01;\012sub t by t.ss01;\012sub u by u.ss01;\012sub v by v.ss01;\012sub w by w.ss01;\012sub x by x.ss01;\012sub y by y.ss01;\012sub z by z.ss01;\012sub o_o by o_o.ss01;\012sub t_h by t_h.ss01;\012sub exclam by exclam.ss01;\012sub yen by yen.ss01;\012sub at by at.ss01;\012sub ampersand by ampersand.ss01;\012";
+name = ss01;
+},
+{
+automatic = 1;
+code = "sub L by L.ss02;\012sub N by N.ss02;\012sub a by a.ss02;\012sub b by b.ss02;\012sub c by c.ss02;\012sub d by d.ss02;\012sub e by e.ss02;\012sub f by f.ss02;\012sub g by g.ss02;\012sub h by h.ss02;\012sub i by i.ss02;\012sub j by j.ss02;\012sub k by k.ss02;\012sub l by l.ss02;\012sub o by o.ss02;\012sub r by r.ss02;\012sub s by s.ss02;\012sub t by t.ss02;\012sub u by u.ss02;\012sub y by y.ss02;\012sub t_h by t_h.ss02;\012";
+name = ss02;
+},
+{
+automatic = 1;
+code = "sub b by b.ss03;\012sub c by c.ss03;\012sub e by e.ss03;\012sub f by f.ss03;\012sub g by g.ss03;\012sub h by h.ss03;\012sub i by i.ss03;\012sub j by j.ss03;\012sub k by k.ss03;\012sub l by l.ss03;\012sub o by o.ss03;\012sub r by r.ss03;\012sub s by s.ss03;\012sub t by t.ss03;\012";
+name = ss03;
+},
+{
+automatic = 1;
+code = "sub b by b.ss04;\012sub f by f.ss04;\012sub k by k.ss04;\012sub r by r.ss04;\012sub t by t.ss04;\012";
+name = ss04;
+},
+{
+automatic = 1;
+code = "sub b by b.ss05;\012sub r by r.ss05;\012sub t by t.ss05;\012";
+name = ss05;
+},
+{
+automatic = 1;
+code = "sub r by r.ss06;\012sub t by t.ss06;\012";
+name = ss06;
+},
+{
+code = "script latn;\012sub one by underline1;\012sub two by underline2;\012sub three by underline3;\012sub four by underline4;\012sub five by underline5;\012sub six by overline1;\012sub seven by overline.dbl;\012sub eight by loop.flourish;\012sub nine by loop.flouish.dbl;\012";
+name = ss07;
+},
+{
+automatic = 1;
+code = "lookup ccmp_Other_1 {\012	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];\012	@CombiningNonTopAccents = [brevebelowcomb cedillacomb dieresisbelowcomb dotbelowcomb macronbelowcomb ogonekcomb horncomb strokeshortcomb];\012	sub [i j]' @CombiningTopAccents by [idotless jdotless];\012	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];\012} ccmp_Other_1;\012\012lookup ccmp_latn_1 {\012	lookupflag 0;\012	sub brevecomb acutecomb by brevecomb_acutecomb;\012	sub brevecomb gravecomb by brevecomb_gravecomb;\012	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;\012	sub brevecomb tildecomb by brevecomb_tildecomb;\012	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;\012	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;\012	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;\012	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;\012} ccmp_latn_1;\012\012script latn;\012lookup ccmp_latn_1;\012";
+name = ccmp;
+},
+{
+code = "script latn;\012sub a m by a_m;\012sub i' lookup lookup_0 m ;\012sub i' lookup lookup_0 n ;\012sub i' lookup lookup_0 u ;\012sub i s by i_s;\012sub o o r by o_o_r;\012sub s u by s_u;\012sub t i t by t_i_t;\012sub t t l by t_t_l;\012sub t h by t_h;\012sub t i by t_i;\012sub t l by t_l;\012sub o i' lookup lookup_0 ;\012sub o o by o_o;\012sub o' lookup lookup_0 n ;\012sub h o l by h_o_l;\012sub h o by h_o;\012sub o p by o_p;\012sub o t by o_t;\012sub j t' lookup lookup_0 ;\012sub t' lookup lookup_0 i n ;\012sub t' lookup lookup_0 i m ;\012sub t' lookup lookup_0 i.ss03 n ;\012sub t' lookup lookup_0 i.ss03 m ;\012sub I t' lookup lookup_0 ;\012sub g' lookup lookup_0 g ;\012sub C o m f o r t e r by Comforter;\012sub f o x by f_o_x;\012sub f f by ff;\012sub f o by f_o;\012sub l t by l_t;\012sub o l by o_l;\012sub o x by o_x;\012sub t quotesingle' lookup lookup_0 ;\012sub t quotedbl' lookup lookup_0 ;";
+name = calt;
 }
 );
 fontMaster = (
@@ -37525,8 +37531,8 @@ note = t.connect;
 unicode = E06D;
 },
 {
-glyphname = a.end;
-lastChange = "2021-08-25 03:39:38 +0000";
+glyphname = a.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -37606,11 +37612,10 @@ width = 785;
 }
 );
 note = a.end;
-unicode = E01E;
 },
 {
-glyphname = b.end;
-lastChange = "2021-08-25 03:39:38 +0000";
+glyphname = b.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -37724,11 +37729,10 @@ width = 372;
 }
 );
 note = b.end;
-unicode = E024;
 },
 {
-glyphname = c.end;
-lastChange = "2021-08-25 03:39:42 +0000";
+glyphname = c.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -37794,11 +37798,10 @@ width = 761;
 }
 );
 note = c.end;
-unicode = E028;
 },
 {
-glyphname = d.end;
-lastChange = "2021-08-25 03:39:38 +0000";
+glyphname = d.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -37913,11 +37916,10 @@ width = 837;
 }
 );
 note = d.end;
-unicode = E02B;
 },
 {
-glyphname = e.end;
-lastChange = "2021-08-25 03:39:38 +0000";
+glyphname = e.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -38000,11 +38002,10 @@ width = 238;
 }
 );
 note = e.end;
-unicode = E02F;
 },
 {
-glyphname = f.end;
-lastChange = "2021-08-25 03:39:38 +0000";
+glyphname = f.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -38118,11 +38119,10 @@ width = 853;
 }
 );
 note = f.end;
-unicode = E034;
 },
 {
-glyphname = g.end;
-lastChange = "2021-08-25 03:39:38 +0000";
+glyphname = g.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -38241,11 +38241,10 @@ width = 406;
 }
 );
 note = g.end;
-unicode = E038;
 },
 {
-glyphname = h.end;
-lastChange = "2021-08-25 03:39:38 +0000";
+glyphname = h.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -38366,11 +38365,10 @@ width = 744;
 }
 );
 note = h.end;
-unicode = E03C;
 },
 {
-glyphname = i.end;
-lastChange = "2021-08-25 03:39:38 +0000";
+glyphname = i.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -38440,11 +38438,10 @@ width = 643;
 }
 );
 note = i.end;
-unicode = E041;
 },
 {
-glyphname = j.end;
-lastChange = "2021-08-25 03:39:38 +0000";
+glyphname = j.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -38554,11 +38551,10 @@ width = 621;
 }
 );
 note = j.end;
-unicode = E046;
 },
 {
-glyphname = k.end;
-lastChange = "2021-08-25 03:39:42 +0000";
+glyphname = k.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -38691,11 +38687,10 @@ width = 645;
 }
 );
 note = k.end;
-unicode = E04B;
 },
 {
-glyphname = l.end;
-lastChange = "2021-08-25 03:39:38 +0000";
+glyphname = l.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -38773,11 +38768,10 @@ width = 220;
 }
 );
 note = l.end;
-unicode = E04F;
 },
 {
-glyphname = m.end;
-lastChange = "2021-08-25 03:39:38 +0000";
+glyphname = m.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -38901,11 +38895,10 @@ width = 834;
 }
 );
 note = m.end;
-unicode = E051;
 },
 {
-glyphname = n.end;
-lastChange = "2021-08-25 03:39:38 +0000";
+glyphname = n.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -38983,11 +38976,10 @@ width = 686;
 }
 );
 note = n.end;
-unicode = E053;
 },
 {
-glyphname = o.end;
-lastChange = "2021-08-25 03:39:42 +0000";
+glyphname = o.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -39106,11 +39098,10 @@ width = 776;
 }
 );
 note = o.end;
-unicode = E057;
 },
 {
-glyphname = p.end;
-lastChange = "2021-08-25 03:39:38 +0000";
+glyphname = p.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -39236,11 +39227,10 @@ width = 894;
 }
 );
 note = p.end;
-unicode = E059;
 },
 {
-glyphname = q.end;
-lastChange = "2021-08-25 03:39:38 +0000";
+glyphname = q.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -39393,11 +39383,10 @@ width = 930;
 }
 );
 note = q.end;
-unicode = E05B;
 },
 {
-glyphname = r.end;
-lastChange = "2021-08-25 03:39:38 +0000";
+glyphname = r.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -39481,11 +39470,10 @@ width = 633;
 }
 );
 note = r.end;
-unicode = E062;
 },
 {
-glyphname = s.end;
-lastChange = "2021-08-25 03:39:38 +0000";
+glyphname = s.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -39575,11 +39563,144 @@ width = 766;
 }
 );
 note = s.end;
-unicode = E067;
 },
 {
-glyphname = t.end;
-lastChange = "2021-08-25 03:39:42 +0000";
+glyphname = h.ss01.fina;
+lastChange = "2021-08-27 21:29:15 +0000";
+layers = (
+{
+layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
+paths = (
+{
+closed = 1;
+nodes = (
+"492 -148 OFFCURVE",
+"517 -141 OFFCURVE",
+"543 -124 CURVE SMOOTH",
+"690 -31 OFFCURVE",
+"770 139 OFFCURVE",
+"770 160 CURVE SMOOTH",
+"770 164 OFFCURVE",
+"769 165 OFFCURVE",
+"766 165 CURVE SMOOTH",
+"762 165 OFFCURVE",
+"751 156 OFFCURVE",
+"744 143 CURVE SMOOTH",
+"701 64 OFFCURVE",
+"629 -5 OFFCURVE",
+"599 -26 CURVE SMOOTH",
+"530 -75 OFFCURVE",
+"475 -97 OFFCURVE",
+"436 -97 CURVE SMOOTH",
+"314 -97 OFFCURVE",
+"292 201 OFFCURVE",
+"290 282 CURVE SMOOTH",
+"289 316 OFFCURVE",
+"285 321 OFFCURVE",
+"254 336 CURVE SMOOTH",
+"244 340 OFFCURVE",
+"235 343 OFFCURVE",
+"226 343 CURVE SMOOTH",
+"204 343 OFFCURVE",
+"188 327 OFFCURVE",
+"178 301 CURVE SMOOTH",
+"163 265 OFFCURVE",
+"136 162 OFFCURVE",
+"122 88 CURVE",
+"112 169 OFFCURVE",
+"107 258 OFFCURVE",
+"107 347 CURVE SMOOTH",
+"107 413 OFFCURVE",
+"110 478 OFFCURVE",
+"118 540 CURVE",
+"291 450 OFFCURVE",
+"474 379 OFFCURVE",
+"588 379 CURVE SMOOTH",
+"648 379 OFFCURVE",
+"702 408 OFFCURVE",
+"702 473 CURVE SMOOTH",
+"702 612 OFFCURVE",
+"491 809 OFFCURVE",
+"301 825 CURVE",
+"123 823 OFFCURVE",
+"87 718 OFFCURVE",
+"70 611 CURVE",
+"-39 667 OFFCURVE",
+"-110 706 OFFCURVE",
+"-173 706 CURVE SMOOTH",
+"-213 706 OFFCURVE",
+"-279 657 OFFCURVE",
+"-279 607 CURVE",
+"-275 562 OFFCURVE",
+"-226 518 OFFCURVE",
+"-223 518 CURVE SMOOTH",
+"-222 518 OFFCURVE",
+"-221 520 OFFCURVE",
+"-221 523 CURVE SMOOTH",
+"-221 556 OFFCURVE",
+"-246 613 OFFCURVE",
+"-246 618 CURVE",
+"-247 621 OFFCURVE",
+"-247 625 OFFCURVE",
+"-247 628 CURVE SMOOTH",
+"-247 655 OFFCURVE",
+"-228 665 OFFCURVE",
+"-200 665 CURVE SMOOTH",
+"-130 665 OFFCURVE",
+"0 601 OFFCURVE",
+"64 568 CURVE",
+"59 535 OFFCURVE",
+"58 496 OFFCURVE",
+"58 452 CURVE SMOOTH",
+"58 273 OFFCURVE",
+"85 32 OFFCURVE",
+"90 -25 CURVE",
+"94 -28 OFFCURVE",
+"102 -33 OFFCURVE",
+"111 -33 CURVE SMOOTH",
+"125 -33 OFFCURVE",
+"139 -20 OFFCURVE",
+"139 5 CURVE SMOOTH",
+"139 16 OFFCURVE",
+"136 29 OFFCURVE",
+"132 44 CURVE",
+"143 111 OFFCURVE",
+"159 219 OFFCURVE",
+"204 296 CURVE",
+"235 126 OFFCURVE",
+"326 -148 OFFCURVE",
+"468 -148 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"484 418 OFFCURVE",
+"284 508 OFFCURVE",
+"184 555 CURVE SMOOTH",
+"163 564 OFFCURVE",
+"143 574 OFFCURVE",
+"125 583 CURVE",
+"140 673 OFFCURVE",
+"170 782 OFFCURVE",
+"299 785 CURVE",
+"474 775 OFFCURVE",
+"680 602 OFFCURVE",
+"680 479 CURVE SMOOTH",
+"680 433 OFFCURVE",
+"645 418 OFFCURVE",
+"597 418 CURVE SMOOTH"
+);
+}
+);
+width = 744;
+}
+);
+note = h.end1;
+},
+{
+glyphname = t.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -39719,11 +39840,10 @@ width = 765;
 }
 );
 note = t.end;
-unicode = E06F;
 },
 {
-glyphname = u.end;
-lastChange = "2021-08-25 03:39:38 +0000";
+glyphname = u.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -39815,11 +39935,10 @@ width = 710;
 }
 );
 note = u.end;
-unicode = E072;
 },
 {
-glyphname = v.end;
-lastChange = "2021-08-25 03:39:42 +0000";
+glyphname = v.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -39923,11 +40042,10 @@ width = 827;
 }
 );
 note = v.end;
-unicode = E074;
 },
 {
-glyphname = w.end;
-lastChange = "2021-08-25 03:39:42 +0000";
+glyphname = w.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -40035,11 +40153,10 @@ width = 994;
 }
 );
 note = w.end;
-unicode = E076;
 },
 {
-glyphname = x.end;
-lastChange = "2021-08-25 03:39:38 +0000";
+glyphname = x.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -40129,11 +40246,10 @@ width = 289;
 }
 );
 note = x.end;
-unicode = E078;
 },
 {
-glyphname = y.end;
-lastChange = "2021-08-25 03:39:38 +0000";
+glyphname = y.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -40262,11 +40378,10 @@ width = 722;
 }
 );
 note = y.end;
-unicode = E07B;
 },
 {
-glyphname = z.end;
-lastChange = "2021-08-25 03:39:38 +0000";
+glyphname = z.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -40356,142 +40471,6 @@ width = 622;
 }
 );
 note = z.end;
-unicode = E07D;
-},
-{
-glyphname = h.end1;
-lastChange = "2021-08-25 03:39:38 +0000";
-layers = (
-{
-layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
-paths = (
-{
-closed = 1;
-nodes = (
-"492 -148 OFFCURVE",
-"517 -141 OFFCURVE",
-"543 -124 CURVE SMOOTH",
-"690 -31 OFFCURVE",
-"770 139 OFFCURVE",
-"770 160 CURVE SMOOTH",
-"770 164 OFFCURVE",
-"769 165 OFFCURVE",
-"766 165 CURVE SMOOTH",
-"762 165 OFFCURVE",
-"751 156 OFFCURVE",
-"744 143 CURVE SMOOTH",
-"701 64 OFFCURVE",
-"629 -5 OFFCURVE",
-"599 -26 CURVE SMOOTH",
-"530 -75 OFFCURVE",
-"475 -97 OFFCURVE",
-"436 -97 CURVE SMOOTH",
-"314 -97 OFFCURVE",
-"292 201 OFFCURVE",
-"290 282 CURVE SMOOTH",
-"289 316 OFFCURVE",
-"285 321 OFFCURVE",
-"254 336 CURVE SMOOTH",
-"244 340 OFFCURVE",
-"235 343 OFFCURVE",
-"226 343 CURVE SMOOTH",
-"204 343 OFFCURVE",
-"188 327 OFFCURVE",
-"178 301 CURVE SMOOTH",
-"163 265 OFFCURVE",
-"136 162 OFFCURVE",
-"122 88 CURVE",
-"112 169 OFFCURVE",
-"107 258 OFFCURVE",
-"107 347 CURVE SMOOTH",
-"107 413 OFFCURVE",
-"110 478 OFFCURVE",
-"118 540 CURVE",
-"291 450 OFFCURVE",
-"474 379 OFFCURVE",
-"588 379 CURVE SMOOTH",
-"648 379 OFFCURVE",
-"702 408 OFFCURVE",
-"702 473 CURVE SMOOTH",
-"702 612 OFFCURVE",
-"491 809 OFFCURVE",
-"301 825 CURVE",
-"123 823 OFFCURVE",
-"87 718 OFFCURVE",
-"70 611 CURVE",
-"-39 667 OFFCURVE",
-"-110 706 OFFCURVE",
-"-173 706 CURVE SMOOTH",
-"-213 706 OFFCURVE",
-"-279 657 OFFCURVE",
-"-279 607 CURVE",
-"-275 562 OFFCURVE",
-"-226 518 OFFCURVE",
-"-223 518 CURVE SMOOTH",
-"-222 518 OFFCURVE",
-"-221 520 OFFCURVE",
-"-221 523 CURVE SMOOTH",
-"-221 556 OFFCURVE",
-"-246 613 OFFCURVE",
-"-246 618 CURVE",
-"-247 621 OFFCURVE",
-"-247 625 OFFCURVE",
-"-247 628 CURVE SMOOTH",
-"-247 655 OFFCURVE",
-"-228 665 OFFCURVE",
-"-200 665 CURVE SMOOTH",
-"-130 665 OFFCURVE",
-"0 601 OFFCURVE",
-"64 568 CURVE",
-"59 535 OFFCURVE",
-"58 496 OFFCURVE",
-"58 452 CURVE SMOOTH",
-"58 273 OFFCURVE",
-"85 32 OFFCURVE",
-"90 -25 CURVE",
-"94 -28 OFFCURVE",
-"102 -33 OFFCURVE",
-"111 -33 CURVE SMOOTH",
-"125 -33 OFFCURVE",
-"139 -20 OFFCURVE",
-"139 5 CURVE SMOOTH",
-"139 16 OFFCURVE",
-"136 29 OFFCURVE",
-"132 44 CURVE",
-"143 111 OFFCURVE",
-"159 219 OFFCURVE",
-"204 296 CURVE",
-"235 126 OFFCURVE",
-"326 -148 OFFCURVE",
-"468 -148 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"484 418 OFFCURVE",
-"284 508 OFFCURVE",
-"184 555 CURVE SMOOTH",
-"163 564 OFFCURVE",
-"143 574 OFFCURVE",
-"125 583 CURVE",
-"140 673 OFFCURVE",
-"170 782 OFFCURVE",
-"299 785 CURVE",
-"474 775 OFFCURVE",
-"680 602 OFFCURVE",
-"680 479 CURVE SMOOTH",
-"680 433 OFFCURVE",
-"645 418 OFFCURVE",
-"597 418 CURVE SMOOTH"
-);
-}
-);
-width = 744;
-}
-);
-note = h.end1;
-unicode = E03D;
 },
 {
 glyphname = a.ss01;
@@ -53356,8 +53335,8 @@ note = t_t_l;
 unicode = E08E;
 },
 {
-glyphname = e_r.end;
-lastChange = "2021-08-25 03:39:38 +0000";
+glyphname = e_r.fina;
+lastChange = "2021-08-27 21:27:42 +0000";
 layers = (
 {
 layerId = "FC6CF40E-48D1-4025-95B5-EAE50260AD89";
@@ -53493,7 +53472,6 @@ width = 899;
 }
 );
 note = e_r.end;
-unicode = E080;
 },
 {
 glyphname = o_o.ss01;
@@ -83755,7 +83733,7 @@ I.ss01 = {
 J.ss01 = 142;
 t = 136;
 t.connect = 73;
-t.end = 42;
+t.fina = 42;
 t.ss01 = 93;
 t.ss03 = 125;
 t.ss04 = 93;
@@ -83846,8 +83824,8 @@ b.ss03 = 57;
 b.ss04 = 62;
 b.ss05 = 71;
 h = 57;
-h.end = 33;
-h.end1 = 105;
+h.fina = 33;
+h.ss01.fina = 105;
 h.ss01 = 28;
 h.ss02 = 81;
 h.ss03 = 66;
@@ -83937,7 +83915,7 @@ c.ss03 = -31;
 };
 c = {
 c.ss02 = -38;
-k.end = -40;
+k.fina = -40;
 o = -22;
 quoteright = 40;
 };
@@ -83966,7 +83944,7 @@ s = 24;
 };
 e.ss01 = {
 d = 42;
-d.end = 32;
+d.fina = 32;
 d.ss02 = 42;
 r.ss05 = 45;
 };
@@ -84025,7 +84003,7 @@ l = 14;
 s = 21;
 t.connect = 44;
 };
-k.end = {
+k.fina = {
 a = -292;
 b = -212;
 c = -374;
@@ -84037,7 +84015,7 @@ h = -233;
 i = -273;
 j = -202;
 k = -242;
-k.end = -293;
+k.fina = -293;
 l = -232;
 m = -192;
 n = -111;
@@ -84088,7 +84066,7 @@ d = -44;
 e = -29;
 g = -41;
 i = -22;
-k.end = -61;
+k.fina = -61;
 l = -57;
 o = -57;
 q = -63;
@@ -84154,7 +84132,7 @@ k = 65;
 s = {
 e = -23;
 k = 21;
-k.end = -51;
+k.fina = -51;
 p = -7;
 s = -29;
 u = -31;
@@ -84275,10 +84253,10 @@ a = -38;
 quoteright = 60;
 };
 w = {
-k.end = -51;
+k.fina = -51;
 };
 x = {
-k.end = 30;
+k.fina = 30;
 o = 21;
 };
 y = {
