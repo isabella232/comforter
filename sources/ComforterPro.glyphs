@@ -161,21 +161,21 @@ fontMaster = (
 {
 alignmentZones = (
 "{750, 20}",
-"{730, 10}",
+"{740, 14}",
 "{400, 16}",
 "{0, -25}",
 "{-410, -15}"
 );
-ascender = 730;
+ascender = 740;
 capHeight = 750;
 customParameters = (
 {
 name = typoAscender;
-value = 1074;
+value = 850;
 },
 {
 name = typoDescender;
-value = -654;
+value = -450;
 },
 {
 name = typoLineGap;
@@ -183,11 +183,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 1074;
+value = 850;
 },
 {
 name = hheaDescender;
-value = -654;
+value = -450;
 },
 {
 name = hheaLineGap;
@@ -195,7 +195,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1165;
+value = 1167;
 },
 {
 name = winDescent;
