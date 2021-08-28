@@ -1,9 +1,7 @@
 
 # Comforter
 
-Comforter is a bouncy, upright brush style script.
-
-Its look is appealing for many usages. It’s contemporary, and non- traditional. It’s sophisticated, yet fun and funky.
+Comforter is a bouncy, upright brush style script. Its look is appealing for many usages. It’s contemporary, and non- traditional. It’s sophisticated, yet fun and funky.
 
 ![Sample Image](Documentation/image1.png)
 
